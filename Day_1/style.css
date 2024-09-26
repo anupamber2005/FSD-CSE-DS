@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(0, 30, 128);;
+}
+tr{
+    background-color: yellow;
+    color: red;
+}
+table{
+    border-radius: 12px;
+    border-color: brown;
+    border-style: groove;
+    border-width: 5px;
+
+}
